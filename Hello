@@ -1,2 +1,6 @@
 print("Hello")
+<<<<<<< HEAD
 print("Hello1")
+=======
+print("aaaaaa")
+>>>>>>> 8c947c3352417c025eac32ae67acb73fbc6bd845
